@@ -6,15 +6,30 @@
 
 </br>
 
+```js
+<script>
+/* 1. define variables */
+var me = "mutuku.josphat";
+var place = "gmail.com";
+
+/* 2. find email link to replace */
+var elink = document.getElementById("mlink");
+
+/* 3. replace link href with variables  */
+elink.href = `mailto:${me}@${place}`;
+</script>
+
+```
+
 <table>
     <tr>
-        <th>Linkedin</th>
+        <th>Email Me</th>
         <th>Blog</th>
         <th>CV</th>
     </tr>
     <tr>
         <td>
-            <a href="https://www.linkedin.com/in/josphat-mutuku-9222ba32/">:memo:</a>
+            <a id="mlink" href="#">:memo:</a>
         </td>
         <td>
             <a href="https://jaymutuku.netlify.app/">🌐</a>
