@@ -27,40 +27,74 @@
 
 ### Tools
 
-- Test Management
+<table>
+<tr>
+<td>Test Management</td>
+<td>
+<a href="https://www.inflectra.com/SpiraTest/"><img src="https://www.inflectra.com/Images/icons/icon-spiratest.svg" alt="Spira" width="40" height="40"/></a>
+</td>
+</tr>
 
-    - [Spira](https://www.inflectra.com/SpiraTest/)
+<tr>
+<td>Test Automation</td>
+<td>
+<a href="https://karatelabs.github.io/karate/"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Karate_software_logo.svg"  alt="Karate" width="40" height="40"/></a>
+<a href="https://www.selenium.dev/"><img src="https://www.svgrepo.com/download/354321/selenium.svg"  alt="Karate" width="40" height="40"/></a>
+</td>
 
-- Test Automation
+</tr>
 
-    - [Karate](https://www.karatelabs.io/open-source)
+<tr>
+<td>Defect Tracking</td>
+<td>
+<a href="https://azure.microsoft.com/en-us"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"  alt="Azure" width="40" height="40"/></a>
+<a href="https://www.atlassian.com/software/jira"><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg"  alt="Jira" width="40" height="40"/></a>
 
-- Defect Tracking
+</td>
+</tr>
 
-    - Azure, Jira, Spira
+<tr>
+<td>Manual API Testing</td>
+<td>
+<a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"  alt="Postman" width="40" height="40"/></a>
+</td>
+</tr>
 
-- Manual API Testing
+<tr>
+<td>Performance Testing</td>
+<td>
+<a href="https://k6.io"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/K6-logo.svg"  alt="Postman" width="40" height="40"/></a>
+</td>
+</tr>
 
-    - Postman
+<tr>
+<td> Monitoring & Observability</td>
+<td>
+<a href="https://grafana.com/"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"  alt="Grafana" width="40" height="40"/></a>
+</td>
+</tr>
 
-- Performance Testing
+<tr>
+<td> Database</td>
+<td>
+<a href="https://www.postgresql.org/"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"  alt="PostgreSQL" width="40" height="40"/></a>
+</td>
+</tr>
 
-    - [k6](https://k6.io)
+<tr>
+<td> Mobile Testing</td>
+<td>
+<a href="https://appium.io/ "><img src="https://www.svgrepo.com/download/353413/appium.svg"  alt="Appium" width="40" height="40"/></a>
+</td>
+</tr>
 
-- Monitoring & Observability
+<tr>
+<td> Programming</td>
+<td>
+<a href="https://go.dev/"><img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg"  alt="Go" width="40" height="40"/></a>
+<a href="https://python.org/"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg"  alt="Python" width="40" height="40"/></a>
+</td>
+</tr>
 
-    - [Grafana](https://grafana.com/)
-
-- Database
-
-    - Postgres
-
-- Mobile Testing
-
-    - [Appium](https://appium.io)
-
-- Programming
-
-    - Python, Go
-
+</table>
 
