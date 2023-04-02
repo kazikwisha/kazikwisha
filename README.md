@@ -6,7 +6,6 @@
 
 </br>
 
-```js
 <script>
 /* 1. define variables */
 var me = "mutuku.josphat";
@@ -19,7 +18,7 @@ var elink = document.getElementById("mlink");
 elink.href = `mailto:${me}@${place}`;
 </script>
 
-```
+
 
 <table>
     <tr>
