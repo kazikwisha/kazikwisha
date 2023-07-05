@@ -6,24 +6,6 @@
 
 </br>
 
-<table>
-    <tr>
-        <th>Email Me</th>
-        <th>Blog</th>
-        <th>CV</th>
-    </tr>
-    <tr>
-        <td>
-            <a href="mailto:&#109;&#117;&#116;&#117;&#107;&#117;&#46;&#106;&#111;&#115;&#112;&#104;&#97;&#116;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">:memo:</a>
-        </td>
-        <td>
-            <a href="https://xbns.netlify.app/">🌐</a>
-        </td>
-        <td>
-            <a href="https://xbns.github.io/profile">:spiral_notepad:</a>
-        </td>
-    </tr>
-</table>
 
 ### Tools
 
